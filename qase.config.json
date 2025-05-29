@@ -1,0 +1,9 @@
+{
+    "debug": false,
+    "testops": {
+        "uploadAttachments": true,
+        "defect": false
+    },
+    "captureLogs": true,
+    "useV2": true
+}
